@@ -1,0 +1,54 @@
+data/楚辞/01.txt
+  s_2618704d52b632::t_1ef86548ee0052 1-214
+data/楚辞/02.txt
+  s_2618704d52b632::t_f7a6fb0d6a3c09 1-224
+data/楚辞/03.txt
+  s_2618704d52b632::t_bcfcbcaa52e4b1 1-199
+data/楚辞/04.txt
+  s_2618704d52b632::t_76915237177b32 1-418
+data/楚辞/05.txt
+  s_2618704d52b632::t_478cf5baf0dcc7 1-110
+data/楚辞/06.txt
+  s_2618704d52b632::t_1099f37cd204b7 1-55
+data/楚辞/07.txt
+  s_2618704d52b632::t_0b9501280b1e2c 1-40
+data/楚辞/08.txt
+  s_2618704d52b632::t_00d06faaf363c2 1-155
+data/楚辞/09.txt
+  s_2618704d52b632::t_1da532d4e0c3ca 1-161
+data/楚辞/10.txt
+  s_2618704d52b632::t_51d7679ab3e997 1-129
+data/楚辞/11.txt
+  s_2618704d52b632::t_7e344743c2312d 1-59
+data/楚辞/12.txt
+  s_2618704d52b632::t_6b67a3435fc63c 1-37
+data/楚辞/13.txt
+  s_2618704d52b632::t_cdd9145ada2494 1-248
+data/楚辞/14.txt
+  s_2618704d52b632::t_edf67882c83249 1-100
+data/楚辞/15.txt
+  s_2618704d52b632::t_e99f297e923375 1-178
+data/楚辞/16.txt
+  s_2618704d52b632::t_55e0df96a7b4b6 1-361
+data/楚辞/17.txt
+  s_2618704d52b632::t_36f96592a07c6c 1-231
+data/楚辞/index.txt
+  s_2618704d52b632::t_db6462953cfdb6 1-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "9fe44733164496ce68e6902eb2dd66988249ee82",
+  "prompts": {},
+  "logical_commit_id": "9fe44733164496ce68e6902eb2dd66988249ee82",
+  "sessions": {
+    "s_2618704d52b632": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6a36d24f-4923-46ca-8eab-fd519e63f0ae",
+        "model": "composer-2.5"
+      },
+      "human_author": "wangyou <wangyou@bigo.sg>"
+    }
+  }
+}
