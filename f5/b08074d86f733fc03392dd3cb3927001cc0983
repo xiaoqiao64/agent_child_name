@@ -1,0 +1,25 @@
+program.md
+  s_2618704d52b632::t_ab36ffc3a3af2c 144
+  s_2618704d52b632::t_78d42aebcccf56 177
+  s_2618704d52b632::t_d63e9d1f49f688 35
+  s_2618704d52b632::t_826985bfa36b6a 193
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "f5b08074d86f733fc03392dd3cb3927001cc0983",
+  "prompts": {},
+  "logical_commit_id": "f5b08074d86f733fc03392dd3cb3927001cc0983",
+  "sessions": {
+    "s_2618704d52b632": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "6a36d24f-4923-46ca-8eab-fd519e63f0ae",
+        "model": "composer-2.5"
+      },
+      "human_author": "xiaoqiao64 <xiaoqiao64@126.com>",
+      "total_additions": 4,
+      "total_deletions": 4
+    }
+  }
+}
